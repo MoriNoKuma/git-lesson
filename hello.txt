@@ -1,3 +1,5 @@
 Taro:Hello
+太郎「こんにちは」
 
 Jiro:Goodbye
+次郎「さようなら」

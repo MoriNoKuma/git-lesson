@@ -3,3 +3,6 @@ Taro:Hello
 
 Jiro:Goodbye
 次郎「さようなら」
+
+Goro:Time to say goodbye
+五郎「サヨナラの時間だ」
